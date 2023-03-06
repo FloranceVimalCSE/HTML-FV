@@ -1,0 +1,15 @@
+Create a folder for project
+Add folder to the text editor
+Create new file with extension html
+Tags are used to create a webpage the way we want to look
+<!DOCTYPE html>  -> refers to the type of the document
+<html>  -> starting tag
+</html> -> ending tag
+Every code is placed between the starting and ending tag
+<head>   -> starting of head tag
+</head>  ->ending of the head tag
+head tag is defines the attribute of the file
+<body>   -> starting of body tag
+</body>  ->ending of body tag
+<title>  ->holds title of the website
+<p>   ->paragraph tag
