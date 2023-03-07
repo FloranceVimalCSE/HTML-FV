@@ -12,10 +12,14 @@ head tag is defines the attribute of the file
 <body>   -> starting of body tag
 </body>  ->ending of body tag
 <title>  ->holds title of the website
-<p>   ->paragraph tag
-<b> ->It describes the given text in Bold
-<i> -> It describes the given text in Italics 
-<br/> ->It gives a space between the lines 
-<hr/> ->
-<>
-<>
+<p>     ->paragraph tag
+<b>     ->It describes the given text in Bold
+<i>     -> It describes the given text in Italics 
+<br/>   ->It gives a space between the lines 
+<hr/>   ->A new line comes between 
+<big>   -> Font increases in size
+<small> ->Font decreases in size
+<sub>   ->It converts the text in subscript
+<sup>   ->It converts the text in superscript
+<!--    ->Comment starting
+-->     ->Comment ending
