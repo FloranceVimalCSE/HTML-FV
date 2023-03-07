@@ -13,3 +13,9 @@ head tag is defines the attribute of the file
 </body>  ->ending of body tag
 <title>  ->holds title of the website
 <p>   ->paragraph tag
+<b> ->It describes the given text in Bold
+<i> -> It describes the given text in Italics 
+<br/> ->It gives a space between the lines 
+<hr/> ->
+<>
+<>
