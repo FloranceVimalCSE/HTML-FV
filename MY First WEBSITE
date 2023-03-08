@@ -3,9 +3,9 @@
 	<head>
 		<title>FV WEBSITE</title>
 	</head>
-	<body><h1 style="color:red;">Pizza Shop</h1>
+	<body><h1 style="color:blue;">Pizza Shop</h1>
     <p>This is the shop where you can buy<b><i><big><big> best</big></big></i></b> pizza</p>
-      <hr/><p style="color:blue;"><br/><b><big>The different pizzas are :</big>	</b><br/></p>
+      <hr/><p style="color:red;"><br/><b><big>The different pizzas are :</big>	</b><br/></p>
       1.Cheese - Rs.99<sup>67</sup><br/>2.Macronni - Rs.107<sup>32</sup><br/>3.Tomato - Rs.88<sup>93</sup><br/>4.Chicken - Rs.150<sup>00</sup>
       
     </body>
