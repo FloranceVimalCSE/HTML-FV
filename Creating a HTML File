@@ -30,3 +30,8 @@ head tag is defines the attribute of the file
 <article>   ->has the article part
 <section>   ->diverse the parts
 <aside>   ->used for the side or not main parts 
+
+
+TO ADD LINKS:
+<a href="link">   ->Link navigates in the same tab
+<a herd=>   ->
