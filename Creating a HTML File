@@ -34,4 +34,21 @@ head tag is defines the attribute of the file
 
 TO ADD LINKS:
 <a href="link">   ->Link navigates in the same tab
-<a herd=>   ->
+<a herf="link" target ="_blank">   ->Link navigates in different tab
+<a href="html file">   ->to open other html file present in same folder
+<a href="directory">   ->to open html file present somewhere else
+<a href="file">   ->open file in same folder
+<img src="image link" alt="text if image is not present">   ->image from web
+<img src="image file">   ->image in computer
+<img width="100" height="100" src="image file">   ->to resize image
+<video src="video file">   ->plays video without controls
+<video src "video file" controls>   ->videos play with control
+<iframe>   ->peek into otherwise
+
+
+To embed youtube video go to the video->share->embed
+
+<ul>   ->unorderd list
+<li>   ->list
+<ol>   ->Ordered list
+
