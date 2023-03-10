@@ -23,3 +23,10 @@ head tag is defines the attribute of the file
 <sup>   ->It converts the text in superscript
 <!--    ->Comment starting
 -->     ->Comment ending
+<header>   ->header part of the website
+<main>   ->middle or the main section 
+<footer>   ->footer part mostly contains navigation links
+<nav>   ->contains links
+<article>   ->has the article part
+<section>   ->diverse the parts
+<aside>   ->used for the side or not main parts 
