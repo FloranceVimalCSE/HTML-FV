@@ -1,0 +1,15 @@
+<ul>
+  <li> Apples</li>
+  <li> Banana</li>
+  <li> Oranges</li>
+</ul>
+
+
+<ol type="i or a">
+  <li><a herf="#"> Apples</a></li>
+<ol>
+
+<dl>
+  <dt>Apples<dt>
+  <dd> -They are red<dd>
+</dl>
