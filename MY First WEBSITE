@@ -3,10 +3,27 @@
 	<head>
 		<title>FV WEBSITE</title>
 	</head>
-	<body><h1 style="color:blue;">Pizza Shop</h1>
-    <p>This is the shop where you can buy<b><i><big><big> best</big></big></i></b> pizza</p>
-      <hr/><p style="color:red;"><br/><b><big>The different pizzas are :</big>	</b><br/></p>
-      1.Cheese - Rs.99<sup>67</sup><br/>2.Macronni - Rs.107<sup>32</sup><br/>3.Tomato - Rs.88<sup>93</sup><br/>4.Chicken - Rs.150<sup>00</sup>
+	<body><h1 style="color:blue;"><img src="C:\Users\Asus\Downloads\FLORANCE\title.png"></h1>
+    <p>This is the shop where you can buy</p><b><i><big><big><p style="color:darkred;"> best pizza</big></big></i></b></p>
+      <hr/><p style="color:darkred;"><br/><b><big><big><big>The different pizzas are :</big></big></big>	</b><br/></p>
+      1.<a href="https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900"><b><big>Cheese</big></b></a>- Rs.99<sup>67</sup><br/><br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/LBTxB8uOWAY" title="YouTube video player" frameborder="0" allow="accelerometer; 
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/><br/>
+
+      2.<a href="https://hips.hearstapps.com/del.h-cdn.co/assets/17/19/1024x1024/square-1494627575-delish-mac-n-cheese-pizza-1.jpg?resize=1200:*"><b><big>
+      Macronni</big></b> </a>- Rs.107<sup>32</sup><br/><br/><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/iaZ52elDWIo" 
+      title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+      allowfullscreen></iframe><br/><br/><br/>
+
+      3.<a href="https://lilluna.com/wp-content/uploads/2020/12/tomato-pizza-resize-7-856x1198.jpg"><b><big>Tomato</big> </b></a>- Rs.88<sup>93</sup><br/><br/><br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/H86VIObTaQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+      clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/><br/>
+
+      4.<a href="https://www.sugarsaltmagic.com/wp-content/uploads/2022/04/Tandoori-Chicken-Pizza-B-4-1024x1536.jpg"><big><b>Chicken</b></big> </a>- Rs.150<sup>00
+      </sup><br/><br/><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/z6CmFx32k34" title="YouTube video player" frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/>
       
     </body>
 </html>
+
+
