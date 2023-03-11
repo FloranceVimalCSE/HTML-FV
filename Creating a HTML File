@@ -1,6 +1,8 @@
 Create a folder for project
 Add folder to the text editor
 Create new file with extension html
+
+
 Tags are used to create a webpage the way we want to look
 <!DOCTYPE html>  -> refers to the type of the document
 <html>  -> starting tag
