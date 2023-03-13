@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+	<h1 style="color: darkcyan;">TO ORDER GIVE DETAILS</h1>
+	<input type="text" value="NAME"/>
+	<input type="email" value="email"/>
+	
+</html>
