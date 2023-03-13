@@ -54,3 +54,18 @@ To embed youtube video go to the video->share->embed
 <li>   ->list
 <ol>   ->Ordered list
 
+Tables:
+
+<table>   ->creates a table
+<tr>   ->table row
+<th>   ->table header
+<td>   ->data to be entered (column)
+<caption>   ->Title of Table
+<thead>   ->header
+<tbody>   ->body
+<td colspan="any integer">   ->takes any nummber of columns in a table
+
+<span>   -> can keep elements in same line
+<block>   -> can keep elements in next line and are block elements
+
+
