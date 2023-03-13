@@ -4,24 +4,54 @@
 		<title>FV WEBSITE</title>
 	</head>
 	<body><h1 style="color:blue;"><img src="C:\Users\Asus\Downloads\FLORANCE\title.png"></h1>
-     <p>This is the shop where you can buy</p><b><i><big><big><p style="color:darkred;"> best pizza</big></big></i></b></p>
+    <p>This is the shop where you can buy</p><b><i><big><big><p style="color:darkred;"> best pizza</big></big></i></b></p>
       <hr/><p style="color:darkred;"><br/><b><big><big><big>The different pizzas are :</big></big></big>	</b><br/></p>
       1.<a href="https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900"><b><big>Cheese</big></b></a>- Rs.99<sup>67</sup><br/><br/>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/LBTxB8uOWAY" title="YouTube video player" frameborder="0" allow="accelerometer; 
-      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/><br/>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/LBTxB8uOWAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/><br/>
 
-      2.<a href="https://hips.hearstapps.com/del.h-cdn.co/assets/17/19/1024x1024/square-1494627575-delish-mac-n-cheese-pizza-1.jpg?resize=1200:*"><b><big>
-      Macronni</big></b> </a>- Rs.107<sup>32</sup><br/><br/><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/iaZ52elDWIo" 
-      title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-      allowfullscreen></iframe><br/><br/><br/>
+      2.<a href="https://hips.hearstapps.com/del.h-cdn.co/assets/17/19/1024x1024/square-1494627575-delish-mac-n-cheese-pizza-1.jpg?resize=1200:*"><b><big>Macronni</big></b> </a>- Rs.107<sup>32</sup><br/><br/><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/iaZ52elDWIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/><br/>
 
-      3.<a href="https://lilluna.com/wp-content/uploads/2020/12/tomato-pizza-resize-7-856x1198.jpg"><b><big>Tomato</big> </b></a>- Rs.88<sup>93</sup><br/><br/><br/>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/H86VIObTaQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/><br/>
+      3.<a href="https://lilluna.com/wp-content/uploads/2020/12/tomato-pizza-resize-7-856x1198.jpg"><b><big>Tomato</big> </b></a>- Rs.88<sup>93</sup><br/><br/><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/H86VIObTaQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/><br/><br/>
 
-      4.<a href="https://www.sugarsaltmagic.com/wp-content/uploads/2022/04/Tandoori-Chicken-Pizza-B-4-1024x1536.jpg"><big><b>Chicken</b></big> </a>- Rs.150<sup>00
-      </sup><br/><br/><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/z6CmFx32k34" title="YouTube video player" frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/>
+      4.<a href="https://www.sugarsaltmagic.com/wp-content/uploads/2022/04/Tandoori-Chicken-Pizza-B-4-1024x1536.jpg"><big><b>Chicken</b></big> </a>- Rs.150<sup>00</sup><br/><br/><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/z6CmFx32k34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br/>
+
+      <table>
+      	<caption>
+      		<h2 style="color:darkblue;">PRICES of FV's PIZZA</h2>
+      	</caption>
+
+      	<tr>
+      		<th></th>
+      		<th style="color: deeppink;">SMALL</th>
+      		<th style="color: deeppink;">MEDIUM</th>
+      		<th  style="color: deeppink;">LARGE</th>      		
+      	</tr>
+      	<tr>
+      		<td><b>Cheese</b></td>
+      		<td>99<sup>67</sup></td>
+      		<td>198<sup>67</sup></td>
+      		<td>297<sup>67</sup></td>
+      	</tr>
+      	<tr>
+      		<td><b>Macroni</b></td>
+      		<td>107<sup>32</sup></td>
+      		<td>214<sup>32</sup></td>
+      		<td>321<sup>32</sup></td>
+      	</tr>
+      	<tr>
+      		<td><b>Tomato</b></td>
+      		<td>88<sup>93</sup></td>
+      		<td>176<sup>93</sup></td>
+      		<td>264<sup>93</sup></td>
+      	</tr>
+      	<tr>
+      		<td><b>Chicken</b></td>
+      		<td>150<sup>00</sup></td>
+      		<td>300<sup>00</sup></td>
+      		<td>450<sup>00</sup></td>
+      	</tr>
+      	
+      </table>
       
     </body>
 </html>
